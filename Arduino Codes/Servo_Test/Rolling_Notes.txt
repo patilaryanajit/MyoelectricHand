@@ -1,0 +1,23 @@
+
+//2-16-26//
+
+- USing new MG90S servo from Aryan instead of SG90 Servo after that one died
+
+- Passive (no load) Current draw from Servo is ~22mA
+- When Hooked up ONE finger with 4.8V, Current draw is ~50mA
+    - 
+- When Hooked up ONE finger with 6V, Current draw is ~50mA
+
+- Noted that when the Motor runs for more than a minute ( even at no load) the motor heats up.
+    - Hypothesis: Motor Heatup is inhibitating the Motor from drawing theoritcal max current. Would require some kind of cooling method to address this.
+
+
+- Stall Voltage (According to documentation) is 1.8Kg*cm and 2.2Kg*cm for 4.8 and 6V respectively
+- Angular Speed (According to Documentation) is 10.47 Rad/sec or 600 Degrees per second or roughly .3 seconds to rotate 180 Degrees
+
+- Patrick HAs hooked up ONE finger (index) to the Motor
+    - The motor does indeed clamp the finger fine at 4.8V
+
+
+        -Shasyak Panda
+// //
