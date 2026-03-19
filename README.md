@@ -15,3 +15,6 @@ Hi there! 👋
 This is a repository for the University of Georgia Bulldog Biomechanics Myoelectric Hand Development Team... dang thats too long oml, let's just say myoelectric hand team for now 😊
 
 Anyway this is a repository of all the relevant documentation, code and cad files this club has used or created. And that's about it I suppose... 
+
+### Contributors 
+Aryan Patil @patilaryanajit
