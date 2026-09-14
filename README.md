@@ -16,6 +16,7 @@ This is a repository for the University of Georgia Bulldog Biomechanics Myoelect
 
 Anyway this is a repository of all the relevant documentation, code and cad files this club has used or created. And that's about it I suppose... 
 
+[Project Charter](https://docs.google.com/document/d/1Cn3a67asKbdKFzySKYd0AUR4-9CbFk_h6_CxMHfUTj0)
 ### Contributors 
 Aryan Patil @patilaryanajit <br>
-Akshu Tirupati @akshutirupati 
+Akshu Tirupati @akshutirupati <br>
